@@ -1,0 +1,16 @@
+# NinjaTrader specific
+bin/
+obj/
+*.user
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Build outputs
+*.dll
+*.pdb
+
+# Logs
+*.log
